@@ -1,2 +1,3 @@
 # Powershell-Windows-Diagnostic
-Help to diagnose your Windows OS.
+
+A PowerShell project intended to help diagnose Windows operating-system issues.
